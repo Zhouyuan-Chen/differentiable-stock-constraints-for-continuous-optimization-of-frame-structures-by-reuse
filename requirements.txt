@@ -1,0 +1,12 @@
+absl==0.0
+autograd==1.9.1
+jax==0.6.2
+matplotlib==3.11.1
+nlopt==2.11.0
+numpy==2.5.1
+pulp==3.3.0
+scikit_sparse==0.4.16
+scipy==1.18.0
+skimage==0.0
+torch==2.11.0
+tqdm==4.67.3
