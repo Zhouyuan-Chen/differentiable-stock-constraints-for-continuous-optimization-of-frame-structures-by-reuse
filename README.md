@@ -74,8 +74,6 @@ If you use this code in your research, please cite:
 
 ## Acknowledgments
 
-This project builds on [Neural Reparameterization Improves Structural Optimization](https://github.com/google-research/neural-structural-optimization) by Hoyer et al. We thank the authors for making their code available.
-
 This work was supported by the ANR-NSF grant NaturalCAD (ANR-23-CE94-0003, NSF 2315354), the Inria CircleD Exploratory Action, which benefits from the support of the La Poste Group patron of the Inria Foundation, and by the Circularity 4.0 for Aerospace funded by TU Delft France Initiative (TDFI).
 
 ## License
