@@ -53,11 +53,22 @@ To reproduce the main results, start with **`beams.ipynb`**. The other notebooks
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{chen2025differentiable,
-  title   = {Differentiable Stock Constraints for Continuous Optimization of Frame Structures by Reuse},
-  author  = {Chen, Zhouyuan and Riso, Marzia and Baas, Berend and Schulz, Adriana and Bousseau, Adrien},
-  journal = {<Venue>},
-  year    = {<Year>}
+@inproceedings{chen2026differentiable,
+  author = {Chen, Zhouyuan and Riso, Marzia and Baas, Berend and Schulz, Adriana and Bousseau, Adrien},
+  title = {Differentiable Stock Constraints for Continuous Optimization of Frame Structures by Reuse},
+  booktitle = {Proceedings of the 11th ACM Symposium on Computational Fabrication},
+  series = {SCF '26},
+  year = {2026},
+  month = {dec},
+  location = {Tokyo, Japan},
+  pages = {1--13},
+  articleno = {8},
+  numpages = {13},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  isbn = {979-8-4007-2821-1},
+  doi = {10.1145/3828611.3845645},
+  url = {https://doi.org/10.1145/3828611.3845645}
 }
 ```
 
@@ -65,4 +76,10 @@ If you use this code in your research, please cite:
 
 This project builds on [Neural Reparameterization Improves Structural Optimization](https://github.com/google-research/neural-structural-optimization) by Hoyer et al. We thank the authors for making their code available.
 
+This work was supported by the ANR-NSF grant NaturalCAD (ANR-23-CE94-0003, NSF 2315354), the Inria CircleD Exploratory Action, which benefits from the support of the La Poste Group patron of the Inria Foundation, and by the Circularity 4.0 for Aerospace funded by TU Delft France Initiative (TDFI).
+
 ## License
+
+This project is licensed under the MIT License.
+
+Copyright (c) 2026 Zhouyuan Chen and contributors
